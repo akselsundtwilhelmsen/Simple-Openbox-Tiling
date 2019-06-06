@@ -1,6 +1,6 @@
 # Super simple manual tiling for Openbox
 
-![Demonstration](https://i.imgur.com/lohHHFN.gif)
+![Demo](i.imgur.com/lohHHFN.gif)
 
 Just add the following in your <keyboard> section of your `/.config/openbox/rc.xml` and restart Openbox.
 
@@ -47,4 +47,4 @@ Just add the following in your <keyboard> section of your `/.config/openbox/rc.x
 
 Super(win) + Shift + Vim keys `hjkl` are used to resize and move the windows.
 
-*Note: Some terminals such as URxvt doesn't support per pixel resizing, but others such as Terminator and ST with (this)[https://st.suckless.org/patches/anysize/] patch supports it.*
+*Note: Some terminals such as URxvt doesn't support per pixel resizing, but others such as Terminator and ST with* (*this*)[https://st.suckless.org/patches/anysize/] *patch supports it.*
