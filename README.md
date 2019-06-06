@@ -1,6 +1,6 @@
 # Super simple manual tiling for Openbox
 
-![Demonstration](https://i.imgur.com/lohHHFN.gifv)
+![Demonstration](https://i.imgur.com/lohHHFN.gif)
 
 Just add the following in your <keyboard> section of your `/.config/openbox/rc.xml` and restart Openbox.
 
