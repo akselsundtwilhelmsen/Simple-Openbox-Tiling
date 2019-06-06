@@ -2,7 +2,7 @@
 
 ![](demonstration.gif)
 
-Just add the following in your <keyboard> section of your `/.config/openbox/rc.xml` and restart Openbox.
+Just add the following in the `<keyboard>` section of your `/.config/openbox/rc.xml` and restart Openbox.
 
 ```
     <keybind key="W-S-h">
